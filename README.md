@@ -4,19 +4,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+science+student;Backend+Developer;NodeJs%20|%20ExpressJs%20|%20Mocha;Database+techs+|+%20Mysql+|+%20Mongodb+|&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="left">I am a Computer Science student from UNQ University (Argentina), enthusiast of backend applications, database models and data persist. In the search for new challenges in my first backend position.</h4>
-<br>
-
 
 
 ## My Skills
 
 ### Programming languages
 - Javascript/Typescript
-- Learning
-	- Python 3
-	- Rust 
-	- PHP
 ### Frameworks, Orms and more
 - Javascript/Typescript
 	- ExpressJs
@@ -26,6 +19,7 @@
 	- Testing
 		- Mocha
 		- Chai
+		- Jest
 - Python
 	- Flask
 
@@ -38,7 +32,7 @@
 - VueJs 3
 - React
 - Testing
-		- Jest
+	- Jest
 
 ### Databases & Cloud Hosting
 - Mysql

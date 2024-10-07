@@ -4,10 +4,10 @@
 </div>
 
 ### Languages
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-[![Postgres](https://img.shields.io/badge/Postgres-%23000000.svg?logo=postgresql&logoColor=blue)](#)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=42b883)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=42b883)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=42b883)
+[![Postgres](https://img.shields.io/badge/Postgres-%23000000.svg?logo=postgresql&logoColor=42b883)](#)
 
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=42b883)

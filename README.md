@@ -10,6 +10,7 @@
 ### Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 [![Vue.js](https://img.shields.io/badge/Vue.js-%23000000?logo=vuedotjs&logoColor=fff)](#)
+[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%23000000?logo=nuxtdotjs&logoColor=%2300DC82)](#)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
 [![Django](https://img.shields.io/badge/Django-%23000000.svg?logo=django&logoColor=white)](#)
 

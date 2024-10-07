@@ -1,4 +1,4 @@
-[![](./github-header-image.png)](#)
+![banner](./github-header-image.png)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EzequielBPullolil&show_icons=true&theme=dark&border_color=42b883" alt="GitHub stats" width="380px">

@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](./github-header-image.png)](#)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EzequielBPullolil&show_icons=true&theme=dark&border_color=42b883" alt="GitHub stats" width="380px">

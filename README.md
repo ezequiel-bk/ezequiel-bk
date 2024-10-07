@@ -1,5 +1,11 @@
 [![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EzequielBPullolil&show_icons=true&theme=dark&border_color=42b883" alt="GitHub stats" width="380px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielBPullolil&layout=compact&theme=dark&border_color=42b883&exclude_repo=HTML,CSS,Shell&langs_count=3" alt="Top Languages" width="340px">
+</div>
+
+
 ### Languages
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -13,7 +19,3 @@
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=42b883)](#)
 [![Django](https://img.shields.io/badge/Django-%23000000.svg?logo=django&logoColor=42b883)](#)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzequielBPullolil&show_icons=true&theme=dark&border_color=42b883" alt="GitHub stats" width="380px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielBPullolil&layout=compact&theme=dark&border_color=42b883&exclude_repo=HTML,CSS,Shell&langs_count=3" alt="Top Languages" width="340px">
-</div>

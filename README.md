@@ -3,7 +3,6 @@
 <img src="./github-header-image.png">
 </div>
 
-
 ### Languages
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)

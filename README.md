@@ -14,6 +14,6 @@
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=42b883)](#)
 [![Django](https://img.shields.io/badge/Django-%23000000.svg?logo=django&logoColor=42b883)](#)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EzequielBPullolil&show_icons=true&theme=dark&border_color=42b883)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EzequielBPullolil&show_icons=true&theme=dark&border_color=42b883)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)(#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielBPullolil&layout=compact&theme=dark&border_color=42b883&exclude_repo=HTML,CSS,Shell&langs_count=3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielBPullolil&layout=compact&theme=dark&border_color=42b883&exclude_repo=HTML,CSS,Shell&langs_count=3)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)(#)

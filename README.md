@@ -18,7 +18,7 @@
 [![Django](https://img.shields.io/badge/Django-%23000000.svg?logo=django&logoColor=42b883)](#)
 
 <div align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=EzequielBPullolil&show_icons=true&theme=dark&border_color=42b883" alt="GitHub stats" width="380px">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielBPullolil&layout=compact&theme=dark&border_color=42b883&exclude_repo=HTML,CSS,Shell&langs_count=3&title_color=ffffff&text_color=ffffff" alt="Top Languages" width="340px">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=ezequiel-bk&show_icons=true&theme=dark&border_color=42b883" alt="GitHub stats" width="380px">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel-bk&layout=compact&theme=dark&border_color=42b883&exclude_repo=HTML,CSS,Shell&langs_count=3&title_color=ffffff&text_color=ffffff" alt="Top Languages" width="340px">
 
 </div>
